@@ -1,0 +1,15 @@
+<!-- res/values/themes.xml(night) -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sikika" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/night_primary</item>
+        <item name="colorPrimaryDark">@color/night_primary_dark</item>
+        <item name="colorAccent">@color/night_accent</item>
+        <item name="android:windowBackground">@color/night_background</item>
+        <item name="android:textColorPrimary">@color/night_text_primary</item>
+        <item name="android:textColorSecondary">@color/night_text_secondary</item>
+
+        <!-- Add more style attributes as needed -->
+    </style>
+</resources>

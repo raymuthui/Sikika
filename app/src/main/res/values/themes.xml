@@ -1,0 +1,16 @@
+<!-- res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sikika" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/light_primary</item>
+        <item name="colorPrimaryDark">@color/light_primary_dark</item>
+        <item name="colorAccent">@color/light_accent</item>
+        <item name="android:windowBackground">@color/light_background</item>
+        <item name="android:textColorPrimary">@color/light_text_primary</item>
+        <item name="android:textColorSecondary">@color/light_text_secondary</item>
+        <!-- Add more style attributes as needed -->
+    </style>
+
+    <style name="Theme.Sikika" parent="Base.Theme.Sikika" />
+</resources>

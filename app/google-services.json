@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357858748941",
+    "project_id": "sikika-6c1f3",
+    "storage_bucket": "sikika-6c1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357858748941:android:56bc1bb7c4042834eb4344",
+        "android_client_info": {
+          "package_name": "com.example.sikika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357858748941-5lguh78o0qrif1tsv0s24eceac7seop1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sikika",
+            "certificate_hash": "690ef7177ddc4209037a573815d2d4284594f7ec"
+          }
+        },
+        {
+          "client_id": "357858748941-brnl3mgva1o1csmq76nk9ao1gjk1mjmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5RTDQQReq-AvRpcKXuCq13HXSlepcHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357858748941-brnl3mgva1o1csmq76nk9ao1gjk1mjmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

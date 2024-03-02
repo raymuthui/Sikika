@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme Colors -->
+    <color name="light_primary">#2196F3</color>        <!-- Blue -->
+    <color name="light_primary_dark">#1976D2</color>   <!-- Darker Blue -->
+    <color name="light_accent">#FF4081</color>         <!-- Red Pink -->
+    <color name="light_background">#FFFFFF</color>     <!-- White -->
+    <color name="light_text_primary">#212121</color>   <!-- Dark Text -->
+    <color name="light_text_secondary">#757575</color> <!-- Light Text -->
+
+    <!-- Night Theme Colors -->
+    <color name="night_primary">#000000</color>         <!-- Black -->
+    <color name="night_primary_dark">#212121</color>    <!-- Darker Black -->
+    <color name="night_accent">#FF0000</color>          <!-- Bright Red -->
+    <color name="night_background">#303030</color>      <!-- Dark Grey -->
+    <color name="night_text_primary">#FFFFFF</color>    <!-- White Text -->
+    <color name="night_text_secondary">#BDBDBD</color>  <!-- Light Grey Text -->
+
+    <!-- Other Colors -->
+    <color name="divider_color">#B6B6B6</color>          <!-- Divider Color -->
+    <color name="icon_color">#616161</color>             <!-- Icon Color -->
+    <!-- Add more colors as needed -->
+</resources>

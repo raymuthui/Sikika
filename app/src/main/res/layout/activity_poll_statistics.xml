@@ -1,0 +1,23 @@
+<!-- activity_poll_statistics.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/pollNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:paddingBottom="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/statisticsTextView"
+        android:layout_width="match_parent"
+        android:layout_height="114dp"
+        android:textSize="16sp" />
+
+</LinearLayout>
